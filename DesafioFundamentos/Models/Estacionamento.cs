@@ -46,7 +46,7 @@ namespace DesafioFundamentos.Models
         {
             Console.WriteLine("Digite a placa do veículo para remover:");
 
-            // *IMPLEMENTE AQUI*
+            // Implementado
             string placa = Console.ReadLine();
 
             // Verifica se o veículo existe
